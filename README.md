@@ -1,7 +1,7 @@
 # Awab Abdelbagi
 - 👋 Hi, I’m Awab Abdelbgi
-- 👀 I am interested in developing applications using Fullter
-- 🌱 I am currently learning dart and Fullter
+- 👀 I am Passionate about web development, particularly specializing in front-end with a professional approach
+- 🌱 Currently, i am expanding my skills by learnig the React.js framework 
 
 <!---
 27waab/27waab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
