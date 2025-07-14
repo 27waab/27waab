@@ -34,7 +34,7 @@ I'm Awab Abdelbagi —
 
 ## 📬 Contact
 
-- Email: your-email@example.com  
+- Email: awaababdelbagi@gmail.com  
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)  
 - Instagram: [@yourhandle](https://instagram.com/yourhandle)
 
