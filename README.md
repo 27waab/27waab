@@ -35,7 +35,7 @@ I'm Awab Abdelbagi —
 ## 📬 Contact
 
 - Email: awaababdelbagi@gmail.com  
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- Portfolio: [myportfolio.com](https://27waab.github.io/my_portfolio/)  
 - Instagram: [@yourhandle](https://instagram.com/yourhandle)
 
 ---
